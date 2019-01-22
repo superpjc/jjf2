@@ -1,0 +1,30 @@
+.about {
+  height : 600px;
+  background-color: grey;
+}
+
+
+.slogan {
+  color : grey;
+  font-size : 5px;
+}
+
+.span01 {
+  font-size : 20px;
+}
+
+.spanl{
+  font-size: 10px;
+}
+
+hr {
+  width : 50%;
+}
+
+.movie_hr {
+  width : 20%;
+  border-style : none;
+  border-top : dotted;
+  border-width : 5px;
+  border-color: lightgrey;
+}
